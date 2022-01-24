@@ -1,0 +1,491 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/!svn/ver/9/SnakesOnAPhone/Classes
+END
+IPersister.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/!svn/ver/209/SnakesOnAPhone/Classes/IPersister.h
+END
+UIViewGL.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/!svn/ver/39/SnakesOnAPhone/Classes/UIViewGL.h
+END
+TextRenderer.mm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/!svn/ver/435/SnakesOnAPhone/Classes/TextRenderer.mm
+END
+GIFrog.mm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/!svn/ver/417/SnakesOnAPhone/Classes/GIFrog.mm
+END
+UDPSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/!svn/ver/258/SnakesOnAPhone/Classes/UDPSocket.h
+END
+MultiplayerHighScore.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/!svn/ver/218/SnakesOnAPhone/Classes/MultiplayerHighScore.h
+END
+ITimerCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/!svn/ver/12/SnakesOnAPhone/Classes/ITimerCallback.h
+END
+ALManager.mm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/!svn/ver/281/SnakesOnAPhone/Classes/ALManager.mm
+END
+ScrollingView.mm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/!svn/ver/267/SnakesOnAPhone/Classes/ScrollingView.mm
+END
+MainMenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/!svn/ver/436/SnakesOnAPhone/Classes/MainMenu.h
+END
+SpriteSheetInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/!svn/ver/316/SnakesOnAPhone/Classes/SpriteSheetInfo.h
+END
+TextEntryPopup.mm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/!svn/ver/276/SnakesOnAPhone/Classes/TextEntryPopup.mm
+END
+UIAlertViewDelegate.mm
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/!svn/ver/276/SnakesOnAPhone/Classes/UIAlertViewDelegate.mm
+END
+GISnake.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/!svn/ver/417/SnakesOnAPhone/Classes/GISnake.h
+END
+Marquee.mm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/!svn/ver/436/SnakesOnAPhone/Classes/Marquee.mm
+END
+AVAPManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/!svn/ver/284/SnakesOnAPhone/Classes/AVAPManager.h
+END
+UDPSocket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/!svn/ver/264/SnakesOnAPhone/Classes/UDPSocket.mm
+END
+GIWalls.mm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/!svn/ver/418/SnakesOnAPhone/Classes/GIWalls.mm
+END
+IGenericEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/!svn/ver/90/SnakesOnAPhone/Classes/IGenericEvent.h
+END
+SinglePlayerHighScore.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/209/SnakesOnAPhone/Classes/SinglePlayerHighScore.h
+END
+RematchMenu.mm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/!svn/ver/368/SnakesOnAPhone/Classes/RematchMenu.mm
+END
+MainMenu.mm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/!svn/ver/450/SnakesOnAPhone/Classes/MainMenu.mm
+END
+BoardBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/!svn/ver/435/SnakesOnAPhone/Classes/BoardBuilder.h
+END
+TCPSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/!svn/ver/277/SnakesOnAPhone/Classes/TCPSocket.h
+END
+IGameItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/!svn/ver/194/SnakesOnAPhone/Classes/IGameItem.h
+END
+TouchableTextRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/382/SnakesOnAPhone/Classes/TouchableTextRenderer.h
+END
+GISnake.mm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/!svn/ver/428/SnakesOnAPhone/Classes/GISnake.mm
+END
+IGLViewConsumer.mm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/!svn/ver/13/SnakesOnAPhone/Classes/IGLViewConsumer.mm
+END
+HighScoreManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/!svn/ver/266/SnakesOnAPhone/Classes/HighScoreManager.h
+END
+RematchMenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/!svn/ver/263/SnakesOnAPhone/Classes/RematchMenu.h
+END
+TextRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/!svn/ver/361/SnakesOnAPhone/Classes/TextRenderer.h
+END
+Constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/!svn/ver/458/SnakesOnAPhone/Classes/Constants.h
+END
+IScrollingViewItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/!svn/ver/203/SnakesOnAPhone/Classes/IScrollingViewItem.h
+END
+GIBackground.mm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/!svn/ver/381/SnakesOnAPhone/Classes/GIBackground.mm
+END
+AVAudioPlayerDelegate.mm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/284/SnakesOnAPhone/Classes/AVAudioPlayerDelegate.mm
+END
+IGameItem.mm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/!svn/ver/194/SnakesOnAPhone/Classes/IGameItem.mm
+END
+ALManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/!svn/ver/281/SnakesOnAPhone/Classes/ALManager.h
+END
+ISessionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/!svn/ver/261/SnakesOnAPhone/Classes/ISessionManager.h
+END
+ScrollingView.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/!svn/ver/266/SnakesOnAPhone/Classes/ScrollingView.h
+END
+BJSessionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/!svn/ver/261/SnakesOnAPhone/Classes/BJSessionManager.h
+END
+SnakesOnAPhoneAppDelegate.mm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/276/SnakesOnAPhone/Classes/SnakesOnAPhoneAppDelegate.mm
+END
+SimplePersister.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/!svn/ver/392/SnakesOnAPhone/Classes/SimplePersister.h
+END
+UITableAlertView.mm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/!svn/ver/258/SnakesOnAPhone/Classes/UITableAlertView.mm
+END
+UIAlertViewDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/!svn/ver/276/SnakesOnAPhone/Classes/UIAlertViewDelegate.h
+END
+Marquee.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/!svn/ver/436/SnakesOnAPhone/Classes/Marquee.h
+END
+AVAudioPlayerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/284/SnakesOnAPhone/Classes/AVAudioPlayerDelegate.h
+END
+BJNSNetServiceDelegate.mm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/261/SnakesOnAPhone/Classes/BJNSNetServiceDelegate.mm
+END
+Timer.mm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/!svn/ver/276/SnakesOnAPhone/Classes/Timer.mm
+END
+AVAPManager.mm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/!svn/ver/284/SnakesOnAPhone/Classes/AVAPManager.mm
+END
+GL2DView.mm
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/!svn/ver/376/SnakesOnAPhone/Classes/GL2DView.mm
+END
+SlidingView.mm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/!svn/ver/340/SnakesOnAPhone/Classes/SlidingView.mm
+END
+AppController.mm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/!svn/ver/450/SnakesOnAPhone/Classes/AppController.mm
+END
+SnakesOnAPhoneAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/36/SnakesOnAPhone/Classes/SnakesOnAPhoneAppDelegate.h
+END
+UITableAlertView.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/!svn/ver/258/SnakesOnAPhone/Classes/UITableAlertView.h
+END
+Game.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/!svn/ver/435/SnakesOnAPhone/Classes/Game.h
+END
+SinglePlayerHighScore.mm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/209/SnakesOnAPhone/Classes/SinglePlayerHighScore.mm
+END
+UIViewGL.mm
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/!svn/ver/39/SnakesOnAPhone/Classes/UIViewGL.mm
+END
+BoardBuilder.mm
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/!svn/ver/459/SnakesOnAPhone/Classes/BoardBuilder.mm
+END
+ITouchReceiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/!svn/ver/39/SnakesOnAPhone/Classes/ITouchReceiver.h
+END
+Timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/!svn/ver/276/SnakesOnAPhone/Classes/Timer.h
+END
+Utils.mm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/!svn/ver/422/SnakesOnAPhone/Classes/Utils.mm
+END
+SlidingView.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/!svn/ver/283/SnakesOnAPhone/Classes/SlidingView.h
+END
+AppController.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/!svn/ver/448/SnakesOnAPhone/Classes/AppController.h
+END
+TouchableTextRenderer.mm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/382/SnakesOnAPhone/Classes/TouchableTextRenderer.mm
+END
+MultiplayerHighScore.mm
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/269/SnakesOnAPhone/Classes/MultiplayerHighScore.mm
+END
+IBJNSNetServiceDelegateWrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/261/SnakesOnAPhone/Classes/IBJNSNetServiceDelegateWrapper.h
+END
+TextEntryPopup.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/!svn/ver/212/SnakesOnAPhone/Classes/TextEntryPopup.h
+END
+Game.mm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/!svn/ver/447/SnakesOnAPhone/Classes/Game.mm
+END
+SpriteSheetInfo.mm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/!svn/ver/316/SnakesOnAPhone/Classes/SpriteSheetInfo.mm
+END
+GIBackground.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/!svn/ver/381/SnakesOnAPhone/Classes/GIBackground.h
+END
+Utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/!svn/ver/417/SnakesOnAPhone/Classes/Utils.h
+END
+GIWalls.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/!svn/ver/417/SnakesOnAPhone/Classes/GIWalls.h
+END
+IStateReporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/!svn/ver/156/SnakesOnAPhone/Classes/IStateReporter.h
+END
+SimplePersister.mm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/!svn/ver/392/SnakesOnAPhone/Classes/SimplePersister.mm
+END
+BJSessionManager.mm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/!svn/ver/261/SnakesOnAPhone/Classes/BJSessionManager.mm
+END
+GIFrog.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/!svn/ver/417/SnakesOnAPhone/Classes/GIFrog.h
+END
+General.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/!svn/ver/417/SnakesOnAPhone/Classes/General.h
+END
+BJNSNetServiceDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/261/SnakesOnAPhone/Classes/BJNSNetServiceDelegate.h
+END
+TCPSocket.mm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/!svn/ver/277/SnakesOnAPhone/Classes/TCPSocket.mm
+END
+IGLViewConsumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/!svn/ver/203/SnakesOnAPhone/Classes/IGLViewConsumer.h
+END
+GL2DView.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/!svn/ver/361/SnakesOnAPhone/Classes/GL2DView.h
+END

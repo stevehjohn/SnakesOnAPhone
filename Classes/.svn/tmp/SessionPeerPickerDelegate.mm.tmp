@@ -1,0 +1,124 @@
+/*
+ * This file is Copyright (C) 2011 by Syniad Software Ltd.
+ * All rights reserved.
+ *
+ * The contents of this file are subject to the Syniad Software Ltd. license agreement.
+ * You may not use this file except in compliance with the license.
+ *
+ */
+
+#import "SessionPeerPickerDelegate.h"
+
+@implementation SessionPeerPickerDelegate
+
+@synthesize m_Session;
+
+-(void) startSession: (ISessionManager*) manager
+{
+  m_Manager = manager;
+    
+  GKPeerPickerController* picker;
+  
+  picker = [[GKPeerPickerController alloc] init];
+  picker.delegate = self;
+  picker.connectionTypesMask = GKPeerPickerConnectionTypeNearby;
+    
+  [picker show];
+}
+
+/*
+- (GKSession *) peerPickerController: (GKPeerPickerController *) picker sessionForConnectionType: (GKPeerPickerConnectionType) type
+{
+  GKSession* session = [[GKSession alloc] initWithSessionID: @"123" displayName: @"Snakes on a Phone" sessionMode:GKSessionModePeer];  
+  
+  session.delegate = self;
+  
+  [session autorelease];
+  
+  return nil;
+}
+ */
+
+- (void) peerPickerController: (GKPeerPickerController *) picker didConnectPeer: (NSString *) peerID toSession: (GKSession *) session
+{  
+  m_PeerID = peerID;
+  m_PeerDisplayName = [session displayNameForPeer: peerID];
+  
+  // Good as a coin toss
+  m_IsServer = ([peerID compare: [session peerID]] == NSOrderedAscending);
+  
+  self.m_Session = session;
+  self.m_Session.delegate = self;
+  [m_Session setDataReceiveHandler: self withContext: nil];
+
+  [picker dismiss];
+  picker.delegate = nil;
+  //[picker autorelease]; // Picker can crash when released! Crash or leak. Nice choice!
+
+  if (m_Manager)
+  {
+    m_Manager->SessionStarted(m_IsServer);
+  }  
+}
+
+- (void) peerPickerControllerDidCancel: (GKPeerPickerController *) picker
+{
+  m_Manager = NULL;
+  
+  picker.delegate = nil;
+  //[picker autorelease];  // Picker can crash when released! Crash or leak. Nice choice!
+  
+  if (m_Session != nil)
+    [self endSession];
+}
+
+- (id) init
+{
+  m_Manager = NULL;
+  m_Session = nil;
+  
+  [super init];
+  
+  return self;
+}
+
+- (void) endSession
+{
+  [m_Session disconnectFromAllPeers];
+  m_Session.available = NO;
+  [m_Session setDataReceiveHandler: nil withContext: nil];
+  m_Session.delegate = nil;  
+<<<<<<< .mine
+=======
+  [m_Session release];
+>>>>>>> .r187
+  m_Session = nil;
+}
+
+- (bool) isActiveSession
+{
+  return (m_Session != nil);
+}
+
+- (void) session: (GKSession *) session peer: (NSString *) peerID didChangeState: (GKPeerConnectionState) state
+{
+  if (state == GKPeerStateDisconnected && m_Manager)
+    m_Manager->PeerDisconnected();
+}
+
+- (void) sendData: (NSData *) data: (GKSendDataMode) dataMode
+{
+  [m_Session sendDataToAllPeers: data withDataMode: dataMode error: nil];
+}
+
+- (void) receiveData: (NSData *) data fromPeer: (NSString *) peer inSession: (GKSession *) session context: (void *) context
+{
+  m_Manager->DataReceived([data bytes], [data length]);
+}
+
+- (void) dealloc
+{
+  [super dealloc];
+}
+
+@end
